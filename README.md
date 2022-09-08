@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi! 👋
 
-<!--
-**Br4k2n/Br4k2n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+She/her;
 
-Here are some ideas to get you started:
+Currently working on Tyratale, wich is a side project;
+Normaly I make games, but now also focusing to do what I love; 
+❤️Programing!❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Currently learning JS, html and css;
+Already know some of Python, C++, C#;
+
+Planning to learn all about webdev in the near future;
+Looking for actually earn income by web development, and make programing my life;
